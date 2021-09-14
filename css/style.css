@@ -1,0 +1,23 @@
+
+
+/*Other devices*/
+@media (min-width: 576px) {
+    .adz {
+      max-width: 540px;
+    }
+  }
+  @media (min-width: 768px) {
+    .adz {
+      max-width: 720px;
+    }
+  }
+  @media (min-width: 992px) {
+    .adz {
+      max-width: 960px;
+    }
+  }
+  @media (min-width: 1200px) {
+    .adz {
+      max-width: 99%;
+    }
+  }
